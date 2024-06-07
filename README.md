@@ -84,8 +84,11 @@ Key Issues:
 •	Worries about her son's changed behavior and loss of interest in activities.
 •	Concerned about identifying and addressing potential underlying issues affecting her son's well-being.
 
-Here's the full transcript of the chat:
+Here's the full transcript of the chat and feedback survey:
 [Chat Transcript.docx](https://github.com/user-attachments/files/15554850/Chat.Transcript.docx)
+[feedback survey.docx](https://github.com/user-attachments/files/15743104/feedback.survey.docx)
+
+
 
 
 
